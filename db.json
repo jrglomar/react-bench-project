@@ -1,0 +1,14 @@
+{
+    "posts": [
+      { "id": 1, "title": "Inheritance", "upvote": 48 },
+      { "id": 2, "title": "Encapsulation", "upvote": 24 },
+      { "id": 3, "title": "Polymorphism", "upvote": 14 },
+      { "id": 4, "title": "Abstraction", "upvote": 56 },
+      { "id": 5, "title": "Interface", "upvote": 18 }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
+  
